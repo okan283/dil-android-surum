@@ -1,0 +1,8 @@
+{
+    "versionCode":  40,
+    "versionName":  "0.1.0",
+    "apk":  "kelime-kartlari.apk",
+    "sha256":  "c8a09452d7e7a81d6b140de9ac348027260ce9b27b2788e249daf4a9a6bf28d5",
+    "notlar":  "Kart animasyonları daha akıcı: kartı sürüklerken ve yeni kart gelirken daha az işlemci ve bellek harcanıyor.",
+    "tarih":  "2026-11-28 14:54"
+}
